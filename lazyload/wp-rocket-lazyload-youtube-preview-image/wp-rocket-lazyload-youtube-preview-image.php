@@ -20,7 +20,7 @@ defined( 'ABSPATH' ) or die();
 // EDIT THIS:
 // Possibles values: default, mqdefault, sddefault, hqdefault, maxresdefault
 
-define( 'WPROCKETHELPERS_LL_YT_PREVIEW_RESOLUTION', 'hqdefault' );
+define( 'WPROCKETHELPERS_LL_YT_PREVIEW_RESOLUTION', 'default' );
 
 // STOP EDITING
 
